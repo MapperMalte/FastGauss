@@ -12,3 +12,5 @@ doi:10.1155/2012/124029
 by
 
 Hector Vazquez-Leal,1 Roberto Castaneda-Sheissa,1 Uriel Filobello-Nino,1 Arturo Sarmiento-Reyes,2 and Jesus Sanchez Orea1
+
+In tests the speed came close to the speed of calculating the value of the sigmoid-function at a certain point. I am interested in exploring normal distributions and their CDF in deep neural networks and comparing them ro RELU and Sigmoid.
